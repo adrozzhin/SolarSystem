@@ -8,5 +8,13 @@ public class Main {
 	andromeda.sun = 1;
 	andromeda.planet = 2;
 	andromeda.moon = 4;
+
+	FeatureSun featureSun = new FeatureSun();
+	featureSun.color = "Red";
+	featureSun.heat = "whatever#2";
+	featureSun.radius = "545678654545km";
+	featureSun.temp = "billions#2";
+
+
     }
 }
