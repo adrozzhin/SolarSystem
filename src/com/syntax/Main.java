@@ -15,6 +15,12 @@ public class Main {
 	featureSun.radius = "545678654545km";
 	featureSun.temp = "billions#2";
 
+	Planet1 planet1 = new Planet1();
+
+	planet1.color = "Green";
+	planet1.size = 99999;
+	planet1.anotherAttribute = "another attribute value";
+
 
     }
 }
